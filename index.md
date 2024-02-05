@@ -16,3 +16,9 @@ let b = 3
 let sum = a + b
 console.log(sum) // output will be 5
 ```
+
+## Adding Task List
+
+- [x] Task one is done
+- [ ] Task two is not done yet
+- [x] Task three is done as well
